@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio da Costa
+# 👨🏻‍💻 Caio da Costa
 <p align="left">Systems for Internet student at IFPB, in Paraíba, Brazil. Currently diving into the world of web development, eager to learn modern technologies and build impactful digital solutions. Passionate about coding, innovation, and working on it</p>
 
 ###
