@@ -1,4 +1,4 @@
-S<h1 align="left">👨🏻‍💻 Caio da Costa</h1>
+<h1 align="left">👨🏻‍💻 Caio da Costa</h1>
 
 ###
 
